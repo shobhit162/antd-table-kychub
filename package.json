@@ -1,0 +1,24 @@
+{
+  "name": "kyc-hub-assignment",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Shobhit Chaurasia",
+  "license": "ISC",
+  "description": "Assignment of KYC Hub",
+  "dependencies": {
+    "antd": "^5.20.3",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.26.1"
+  },
+  "devDependencies": {
+    "buffer": "^6.0.3",
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  }
+}

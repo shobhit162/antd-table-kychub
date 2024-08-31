@@ -1,0 +1,23 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.compare-grid {
+  display: flex;
+  justify-content: space-around;
+}
+
+.modal {
+  max-height: 500px;
+}
+
+.modal .ant-table {
+  overflow: auto;
+}
+
+h1 {
+  text-align: center;
+}
